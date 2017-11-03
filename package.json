@@ -1,0 +1,11 @@
+{
+  "name": "webpack-hrm-demo",
+  "version": "0.1.0",
+  "description": "webpack hot module replacement demo",
+  "author": "yunxiange",
+  "respoistry": {
+    "type": "git",
+    "url": "http://github.com/yunxiange/webpack-hrm-demo"
+  },
+  "license": "MIT"
+}
